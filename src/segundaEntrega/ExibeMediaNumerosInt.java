@@ -1,14 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * a) Elabore um programa que lê um número inteiro n, seguido de n inteiros, e exibe a média dos n números lidos.
  */
 package segundaEntrega;
 
-/**
- *
- * @author pamela rozolem
- */
 public class ExibeMediaNumerosInt {
     
 }
