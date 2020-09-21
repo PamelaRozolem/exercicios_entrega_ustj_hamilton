@@ -1,17 +1,15 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * o) Desenvolva   um   programa   que,   com   base   em   duas   notas   de   provas   e   três   notas   de 
+ *  trabalhos   dadas   pelo   usuário,   exibe   uma   mensagem   indicando   se   o   aluno   foi   aprovado,   reprovado   ou   se   fará   o   exame. 
+ *  •   6   ≤   𝑀é𝑑𝑖𝑎   𝑓𝑖𝑛𝑎𝑙   ≤   10,   𝑎𝑝𝑟𝑜𝑣𝑎𝑑𝑜 
+ *  •   4   ≤   𝑀é𝑑𝑖𝑎   𝑓𝑖𝑛𝑎𝑙   <   6,   𝑒𝑥𝑎𝑚𝑒 
+ *  •   0   ≤   𝑀é𝑑𝑖𝑎   𝑓𝑖𝑛𝑎𝑙   <   4,   𝑟𝑒𝑝𝑟𝑜𝑣𝑎𝑑𝑜 
  */
 package primeiraEntrega;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author pamela rozolem
- */
-public class o {
+public class ExibeMediaAluno {
     public static void main(String[] args){
     
          Double prova1 = Double.parseDouble(JOptionPane.showInputDialog("Digite a primeira prova"));

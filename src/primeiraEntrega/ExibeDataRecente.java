@@ -1,27 +1,17 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
-
-k) Faça um programa que recebe duas datas distintas e exibe a mais recente. Cada data deve ser fornecida como três valores inteiros, 
-onde o primeiro representa o dia, o segundo o mês e o terceiro o ano. Dica: comece verificando pelo ano.
-1 2 20
+ *  k) Faça um programa que recebe duas datas distintas e exibe a mais recente. Cada data deve ser fornecida como três valores inteiros, 
+ *  onde o primeiro representa o dia, o segundo o mês e o terceiro o ano. Dica: comece verificando pelo ano.
  */
 package primeiraEntrega;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.GregorianCalendar;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author pamela rozolem
- */
-public class ExercicioK {
+public class ExibeDataRecente {
     
     public static void main(String[] args){
 
@@ -42,7 +32,7 @@ public class ExercicioK {
             }
 
         } catch (ParseException ex) {
-            Logger.getLogger(ExercicioK.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(ExibeDataRecente.class.getName()).log(Level.SEVERE, null, ex);
         }
 
     }
