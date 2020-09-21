@@ -1,9 +1,11 @@
+/*
+ * h) Desenvolva um programa que recebe a base e a altura de três triângulos e exibe a maior área. Lembre-se da 
+ *  fórmula: 𝐴 = 𝑏𝑎𝑠𝑒 ×𝑎𝑙𝑡𝑢𝑟𝑎 / 2
+ *  
+ */
 
 package primeiraEntrega;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 

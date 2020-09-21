@@ -1,3 +1,6 @@
+/* 
+ * c) Faça um programa que recebe dois números inteiros distintos e exibe o maior.
+ */
 package primeiraEntrega;
 
 import javax.swing.JOptionPane;

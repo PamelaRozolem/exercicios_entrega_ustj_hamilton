@@ -1,3 +1,8 @@
+/*
+ * d) Faça um programa que recebe dois números reais e exibe o menor deles e com duas  
+ *  
+ */
+
 package primeiraEntrega;
 
 import java.text.DecimalFormat;

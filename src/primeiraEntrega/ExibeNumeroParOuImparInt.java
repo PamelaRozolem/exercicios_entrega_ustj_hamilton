@@ -1,4 +1,7 @@
-
+/*
+ * e) Faça um programa que recebe um número inteiro e exibe uma mensagem indicando se ele é par ou ímpar (use o operador % para obter o resto de uma divisão inteira).  
+ *  
+ */
 package primeiraEntrega;
 
 import javax.swing.JOptionPane;

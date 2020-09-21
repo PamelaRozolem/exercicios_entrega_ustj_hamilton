@@ -1,3 +1,9 @@
+/*
+ * g) Faça um programa que mostre um menu com as opções "adição", "subtração", "multiplicação" e "divisão", 
+ *   recebe dois valores reais, a operação escolhida pelo usuário e exibe o resultado da operação sobre os valores.
+ *  
+ */
+
 package primeiraEntrega;
 
 import java.util.Scanner;
